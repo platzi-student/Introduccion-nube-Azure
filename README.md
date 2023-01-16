@@ -5,7 +5,53 @@
     <img src="https://i.imgur.com/wL2G5A8.png" width="">
 </div>
 
+# Aprender sobre la nube
+* https://learn.microsoft.com/en-us/certifications/
+* https://quique-olazaran.notion.site/quique-olazaran/Microsoft-Fundamentos-AZ-900-aafa18a3543944999292642d57c67f44
+
+## Beneficios y consideraciones del uso de servicios en la nube
+### Alta Disponibilidad
+💡 La `disponibilidad` se refiere al hecho de cuanto tiempo se encuentra un servicio disponible, para acceder al mismo.
+
+> ¿Por qué perderíamos disponibilidad?
+> 
+- **Problema en la red** **(Múltiples conexiones entre varios recursos).**
+- **Bug de una aplicación** **(Regularmente el responsable es el creador del software).**
+- **Falla del sistema** **(Ocurre cuando una VM corriendo un S.O. particular se torna como "NO DISPONIBLE").**
+- **Corte de energía.**
+
+
+💡 `Alta disponibilidad:` Contar con la mayor cantidad de tiempo de disponibilidad de nuestros recursos.
+
+✅ Lo ideal es contar con la mayor cantidad de tiempo de disponibilidad en nuestros recursos.
+
+Los proveedores en la nube, brindan un **Acuerdo de Nivel de Servicio (SLA)** que garantiza cierto nivel de disponibilidad de los recursos con un porcentaje (%). 
+
+Este acuerdo es muy cercano al 100%. 💯
+
+Únicamente aplica para los recursos controlados por el proveedor. 🌐
+
+### Escalabilidad
+💡 `Escalabilidad` se refiere al hecho de incrementar o decrementar los recursos o servicios basados en la demanda o carga de trabajo en determinado tiempo.
+
+---
+
+
+💡 `Escalamiento Vertical` Es el proceso de agregar más recursos para incrementar el poder de un servidor existente **(Memoria, CPU, SSD, etc.).**
+
+![Untitled](https://quique-olazaran.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbbaf870d-f143-4d1c-9e75-38e87cd89f44%2FUntitled.png?id=27818387-bd9c-4a8f-b66a-62a8fee3540b&table=block&spaceId=976dd965-5699-47c3-8b7a-0e4e80bae9fa&width=480&userId=&cache=v2)
+
+💡 `Escalamiento Horizontal` Crear una copia exacta del servidor para que ya no sea solo uno, sino sean dos los que reciben solicitudes **(de tráfico de red)** o trabajen en ciertos procesos.
+
+Estos dos servidores tendrían las mismas capacidades técnicas pero trabajarían en conjunto como una sola unidad, a este proceso se le llama escalamiento horizontal.
+
+![Untitled](https://quique-olazaran.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6408b4f5-1f73-4a02-8b07-435df28e86e6%2FUntitled.png?id=450d4dcb-cf67-4ff2-8972-a980acbef0aa&table=block&spaceId=976dd965-5699-47c3-8b7a-0e4e80bae9fa&width=1200&userId=&cache=v2)
+
+![Untitled](https://quique-olazaran.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F016f772b-6568-4a42-8a84-4c7d336196fe%2FUntitled.png?id=7bbb530a-3e57-4ce4-8ca1-0a6085fe8b45&table=block&spaceId=976dd965-5699-47c3-8b7a-0e4e80bae9fa&width=1320&userId=&cache=v2)
+
 ![](https://static.platzi.com/media/user_upload/1-27218f9e-d785-4b42-895e-7730e97184ec.jpg)
+![](https://static.platzi.com/media/user_upload/2-0f51246a-638c-4e3f-a91d-7b1bddd2304a.jpg)
+
 
 ## Introducción al Cómputo en la nube
 ### **Conociendo Azure**
