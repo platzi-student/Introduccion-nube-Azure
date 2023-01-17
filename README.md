@@ -267,4 +267,9 @@ La distribución geográfica asegura que este disponible para todo el mundo.
 
 Los datos se protegen con copias de seguridad, replicación de datos y distribución geográfica. En algunas ocasiones de forma opcional hay una oferta para la recuperación ante desastres porque los DC no están exentos ante una catástrofe.
 
+![](https://static.platzi.com/media/user_upload/Que%20es%20la%20nube-8119376a-30ba-4cc3-bf3d-a4d7145892ec.jpg)
+
+# Modelos de servicio: IaaS, PaaS, SaaS y serverless
+
+
 
